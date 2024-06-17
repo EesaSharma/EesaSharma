@@ -228,8 +228,6 @@
 ----
 	
 <p align="center"> <a href="https://github.com/eesasharma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eesasharma&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="eesasharma" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=eesasharma)](https://holopin.io/@eesasharma)
 	
 </details>
 	
