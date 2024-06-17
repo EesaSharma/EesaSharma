@@ -238,7 +238,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/eesasharma/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eesasharma&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eesasharma&repo=mymathhub&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/eesasharma/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eesasharma&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
