@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I am Eesa Sharma, I am a C++ and C# programmer.
+## I am Eesa Sharma, I am a C++ and C# programmer.
 
 - 🔭 I’m currently working on ...
 
