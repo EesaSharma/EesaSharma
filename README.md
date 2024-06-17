@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Pre Calc, Perlin Noise, data serialization and FRC Java**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🎮 I have a deep interest in games. So I'm always learning **Game Dev**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
