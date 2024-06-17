@@ -31,9 +31,9 @@
 
 - 🎮 I have a deep interest in games. So I'm always learning **Game Dev**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [My Blog](https://eesasharma.com/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **My Engine, JavaScript, C++, Marketing, and Robotics**
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
