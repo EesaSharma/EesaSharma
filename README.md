@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Game/Simulation engine in C++ and C#, C,**
+- 🔭 I’m currently working on **Game/Simulation engine in C++ and C#, C**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Pre Calc, Perlin Noise, data serialization and FRC Java**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
