@@ -35,9 +35,9 @@
 
 - 💬 Ask me about **My Engine, JavaScript, C++, Marketing, and Robotics**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to hit me up **eesa@eesasharma.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [eesasharma](https://discordapp.com/users/1020741726618538087) my username!
 <!--Intro end-->
 
 
