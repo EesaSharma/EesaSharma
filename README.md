@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of Eesa" src="https://ibb.co/jJNHW1n" alt="Avatar photo of Eesa">
+      <img height="200" alt="Avatar photo of Eesa" src="https://i.ibb.co/z6MN70q/meblackwhite.jpg" alt="Avatar photo of Eesa">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Eesa;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+Engineer;Backend+and+Frontend+Developer;Football+Lover;Gym+Guy;Music+and+Programming+Lover" alt="Typing SVG" /></a>
