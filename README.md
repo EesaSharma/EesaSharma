@@ -3,6 +3,7 @@
 ## I am Eesa Sharma, I am a C++ and C# programmer.
 
 - 🔭 I’m currently working on ...
+  I'm currently making a game/simulation engine in C++ and C#. Hopefully to make a game to publish on itch.io.
 
 <!--
 **EesaSharma/EesaSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
