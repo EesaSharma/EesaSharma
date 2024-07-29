@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of Eesa" src="https://i.ibb.co/z6MN70q/meblackwhite.jpg" alt="Avatar photo of Eesa">
+      <img height="200" alt="Avatar photo of blightyjoint" src="https://i.ibb.co/z6MN70q/meblackwhite.jpg" alt="Avatar photo of blightyjoint">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Eesa;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+Engineer;Backend+and+Frontend+Developer;Football+Lover;Gym+Guy;Music+and+Programming+Lover" alt="Typing SVG" /></a>
@@ -48,7 +48,7 @@
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Eesa.
+ * @returns {Object} Blightjoint.
  */
 ```
 
@@ -145,7 +145,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eesasharma&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blightyjoint&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
@@ -200,7 +200,7 @@ If you have any questions about web development, my engine or anything else, fee
 <a href="mailto:eesa@eesasharma.com?subject=Hi%20Eesa%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://eesasharma.com" target="_blank"><img width="100px" src="https://www.svgrepo.com/show/447845/website-click.svg" alt="Website" /></a>
 <a href="https://discord.com/users/1020741726618538087" target="_blank"><img width="100px" src="https://www.svgrepo.com/show/515916/discord.svg" alt="Discord" /></a>
-<a href="https://steamcommunity.com/id/EesaSharma" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
+<a href="https://steamcommunity.com/id/Blightyjoint" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
 </div>
 
 ------
