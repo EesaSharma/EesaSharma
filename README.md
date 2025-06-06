@@ -2,7 +2,7 @@
 
 #### A 4+ years experienced webdev by day ☼ and a C++ programmer by night ☾
 
-Contributer @[StudioCherno](https://github.com/StudioCherno);<br>
+Contributer @[CRYTEK](https://github.com/CRYTEK);<br>
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.ts`, `.sql`
 - 🌍 I'm mostly active within the **C++** and **Low Level** Community
