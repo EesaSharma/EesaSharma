@@ -2,7 +2,7 @@
 
 #### A 4+ years experienced Webdev by day ☼ and a C++ programmer by night ☾
 
-Contributer [StudioCherno](https://github.com/StudioCherno);<br>
+Contributer @[StudioCherno](https://github.com/StudioCherno);<br>
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Webdev Community**
