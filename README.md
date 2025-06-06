@@ -4,7 +4,7 @@
 
 Contributer @[StudioCherno](https://github.com/StudioCherno);<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.ts`, `.sql`
 - 🌍 I'm mostly active within the **Webdev Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
