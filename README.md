@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A 4+ years experienced Webdev ☼ and a C++ programmer by night ☾
+#### A 4+ years experienced Webdev by day ☼ and a C++ programmer by night ☾
 
 Contributer [StudioCherno](https://github.com/StudioCherno);<br>
 
